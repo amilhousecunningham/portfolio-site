@@ -1,0 +1,46 @@
+html {
+    overflow-x:hidden;
+    overflow-y: hidden;
+    overflow: hidden;
+    } 
+
+.navbar{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.2rem;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: coral;
+}
+
+.w-100{
+    position: fixed;
+    object-fit: cover;
+    width: auto;
+    min-height: 100%;
+    overflow: hidden;
+    margin:0;
+} 
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5rem;
+}
+
+a{
+    justify-content: end;
+}
+
+.jumbotron{
+    position: fixed;
+    top: 600px;
+    left: 50px;
+
+    width: 100%;
+
+    font-weight: bolder;
+    color:white;
+    background-color: black;
+
+}
