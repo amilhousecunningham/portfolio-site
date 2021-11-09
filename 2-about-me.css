@@ -17,11 +17,13 @@ body{
     padding-left: 15px;
     padding-right: 15px;
     position: fixed;
+    z-index: 1;
+
 }
 
 h1{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
 }
 
 a{
